@@ -11,3 +11,6 @@ Es para saber la situacion actual de mi proyecto
 
 3. git add .
 Con este le decimos a git que guarde todos los archivos nuevos que detecte
+
+4. git commit -m "mensaje indicativo del cambio"
+Con este comando confirmamos TODOS los cambios que hicimos hasta ese momento
