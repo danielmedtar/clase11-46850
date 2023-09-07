@@ -1,0 +1,13 @@
+Ignorar archivos:
+Cuando quieran ignorar un archivo o carpeta, asegurense de NO haberlo incluido en ningun git add
+
+Comandos básicos de GIT.
+
+1. git init
+Este comando inicializa o activa git en nuestros proyectos
+
+2. git status
+Es para saber la situacion actual de mi proyecto
+
+3. git add .
+Con este le decimos a git que guarde todos los archivos nuevos que detecte
