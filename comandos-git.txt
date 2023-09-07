@@ -14,3 +14,9 @@ Con este le decimos a git que guarde todos los archivos nuevos que detecte
 
 4. git commit -m "mensaje indicativo del cambio"
 Con este comando confirmamos TODOS los cambios que hicimos hasta ese momento
+
+5. git log
+Genera un historial completo de los ultimos commits, usuario, fecha y hora de esos cambios
+
+6. git log --oneline
+Genera un historial resumido
