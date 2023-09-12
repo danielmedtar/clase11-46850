@@ -40,3 +40,9 @@ a. La rama no debe tener add ni commits pendientes
 b. Debemos movernos a la rama principal. Pues la fusion o merge no funciona desde una rama
 
 11. PARA SUBIR A GITHUB SIEMPRE DEBE ESTAR EL ARBOL DE TRABAJO LIMPIO. HABIENDO HECHO EL GIT COMMIT.
+
+12. El comando git remote add + link y el comando git push -u origin main solo se hacen la primera vez que se sube el repo.
+
+13. Luego para modificar en cambios futuros solo commit y git push
+
+
